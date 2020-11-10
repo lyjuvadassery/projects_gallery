@@ -16,6 +16,7 @@ dependencies:
   flutter_icons:
   google_fonts:
   smooth_star_rating:
+  syncfusion_flutter_gauges: ^18.3.47
 
 dev_dependencies:
   flutter_test:
